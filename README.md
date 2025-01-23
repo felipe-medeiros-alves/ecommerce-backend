@@ -6,7 +6,7 @@ Technologies Used
 Getting Started
     
 ```bash
-git clone https://github.com/your-username/e-commerce-backend.git
+git clone https://github.com/felipe-medeiros-alves/e-commerce-backend.git
 ```
 
 ```bash
